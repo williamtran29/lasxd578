@@ -11,8 +11,3 @@ status-website:
   name: Upptime
   introTitle: "Lasxd578"
   introMessage: Lasxd578 Status
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
