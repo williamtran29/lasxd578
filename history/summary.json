@@ -4,7 +4,7 @@
     "url": "https://lasxd578.vn/",
     "icon": "https://icons.duckduckgo.com/ip3/lasxd578.vn.ico",
     "slug": "lasxd578",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 2755,
     "timeYear": 2400,
     "dailyMinutesDown": {
+      "2023-05-31": 0,
       "2023-04-20": 354,
       "2023-04-17": 56,
       "2023-03-26": 185,
